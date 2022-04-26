@@ -1,0 +1,16 @@
+{
+  "id": "1647290",
+  "name": "library",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "3364543",
+      "name": "lock",
+      "font_class": "lock",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    }
+  ]
+}
